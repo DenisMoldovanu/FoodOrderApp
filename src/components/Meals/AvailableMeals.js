@@ -40,6 +40,7 @@ const DUMMY_MEALS = [
             </ul>
             </Card>
         </section>
+        
     )
   }
 
